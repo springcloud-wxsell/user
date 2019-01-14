@@ -6,7 +6,6 @@
 		<groupId>com.sell</groupId>
 		<artifactId>user</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
-		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 
 	<artifactId>user-server</artifactId>
